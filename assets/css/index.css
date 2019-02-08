@@ -1,0 +1,336 @@
+
+/*=================================================================
+  @media screen 1440px
+==================================================================*/
+
+
+@media screen and (min-width: 1440px){
+   
+  
+
+
+}
+
+/*=================================================================
+  @media screen 1199px
+==================================================================*/
+
+
+@media screen and (max-width: 1199px){
+  .__navm {
+    margin-left: 19%;
+  }
+
+  .__vot {
+    font-size: 29px;
+  }
+
+  .__votorg {
+    font-size: 14px;
+  }
+
+  .__smche {
+    margin-left: -5px;
+  }
+
+  .__webche {
+    margin-left: -7px;
+  }
+
+  .__votp {
+    font-size: 13px;
+  }
+  .__votp1 {
+    font-size: 11px;
+  }
+
+  #quote-carousel .carousel-indicators {
+    left: 0%;
+    margin-left: 0;
+  }
+
+  #quote-carousel .carousel-indicators li {
+    width: 167px;
+    height: 167px;
+  }
+
+  #quote-carousel .carousel-indicators .active {
+    width: 167px;
+    height: 167px;
+  }
+  
+
+}
+
+
+/*=================================================================
+  @media screen 1220px
+==================================================================*/
+
+
+@media screen and (min-width: 1220px){
+  
+
+
+
+
+}
+
+
+/*=================================================================
+  @media screen 1024px
+==================================================================*/
+
+
+@media screen and (max-width: 1024px){
+  .__navm {
+    margin-left: 22%;
+  }
+
+  .__vot {
+    font-size: 30px;
+  }
+
+  .__smche {
+    margin-left: -14px;
+  }
+
+  .__webche {
+    margin-left: -17px;
+  }
+
+  .__votorg {
+    font-size: 15px;
+  }
+
+  .__votp {
+    font-size: 13px;
+  }
+
+  #quote-carousel .carousel-indicators {
+    left: 0%;
+    margin-left: 0;
+  }
+
+  #quote-carousel .carousel-indicators li {
+    width: 140px;
+    height: 140px;
+  }
+
+  #quote-carousel .carousel-indicators .active {
+    width: 140px;
+    height: 140px;
+  }
+  
+
+  
+
+}
+
+
+/*=================================================================
+  @media screen 992px
+==================================================================*/
+
+
+@media screen and (max-width: 992px){
+    
+}
+
+
+/*=================================================================
+  @media screen 800px
+==================================================================*/
+
+@media screen and (max-width: 800px){
+
+	
+  .__navm {
+    margin-left: 0;
+  }
+
+  .__vot {
+    font-size: 22px;
+    margin-top: 18%;
+  }
+
+  .__votorg {
+    font-size: 13px;
+  }
+
+  .__ivche {
+    font-size: 11px;
+  }
+
+  .__smche {
+    font-size: 11px;
+    margin-left: -18px;
+  }
+
+  .__webche {
+    font-size: 12px;
+    margin-left: -18px;
+  }
+
+  .__vt {
+    font-size: 18px;
+  }
+
+  .__vt1 {
+    font-size: 12px;
+  }
+
+  #quote-carousel .carousel-indicators .active {
+    width: 110px;
+    height: 110px;
+    margin-top: 35% !important;
+  }
+  #quote-carousel .carousel-indicators li {
+    width: 105px;
+    height: 105px;
+    margin-top: -23px !important;
+  }
+
+  .__quote1 {
+    font-size: 12px;
+  }
+
+
+}
+
+/*=================================================================
+  @media screen 767px
+==================================================================*/
+
+@media screen and (max-width: 767px){
+
+  .__vot {
+    font-size: 35px;
+    margin-top: 0;
+  }
+
+  .__ivche {
+    font-size: 18px;
+  }
+
+  .__smche {
+    font-size: 18px;
+    left: 36%;
+    position: absolute;
+    top: -55px;
+  }
+
+  .__webche {
+    font-size: 19px;
+    left: 69%;
+    position: absolute;
+    top: -55px;
+  }
+
+  .__votecard {
+    margin-top: 2%;
+  }
+
+  .__votp {
+    margin-top: 4%;
+  }
+
+  .__imgc {
+    margin-top: 5%;
+  }
+
+  .__vt {
+     margin-top: 2%;
+  }
+
+  .__quote1 {
+    font-size: 17px;
+  }
+
+  #quote-carousel .carousel-indicators {
+    left: 0;
+    margin-left: 0;
+  }
+
+  #quote-carousel .carousel-indicators li {
+    width: 210px;
+    height: 210px;
+    margin-top: 0px !important;
+  }
+
+  #quote-carousel .carousel-indicators .active {
+    width: 210px;
+    height: 210px;
+    margin-top: 13% !important;
+  }
+
+  
+
+  
+}
+
+
+/*=================================================================
+  @media screen 560px
+==================================================================*/
+
+@media screen and (max-width: 560px){
+
+  .__navh {
+    margin-bottom: 0;
+  }
+
+  .__vot {
+    font-size: 24px;
+    margin-top: 0;
+  }	
+
+  .__votorg {
+    font-size: 15px;
+  }
+
+  .__reqbtn {
+    font-size: 14px;
+   }
+
+  .__trybtn {
+    font-size: 14px;
+  }
+
+  .__smche {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+  .__webche {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+  .__quote1 {
+    font-size: 13px;
+  }
+
+  #quote-carousel .carousel-indicators li {
+    width: 70px;
+    height: 70px;
+    margin-top: 14px !important;
+  }
+
+  #quote-carousel .carousel-indicators .active {
+    width: 80px;
+    height: 80px;
+    margin-top: 10px !important;
+  }
+
+  #quote-carousel .carousel-indicators {
+    left: 1%;
+    margin-left: 0%;
+  }
+
+  .__votecam {
+    font-size: 16px;
+  }
+
+}
+
