@@ -300,11 +300,13 @@
   .__smche {
     margin-left: 0;
     margin-top: 10px;
+    position: unset;
   }
 
   .__webche {
     margin-left: 0;
     margin-top: 10px;
+    position: unset;
   }
 
   .__quote1 {
