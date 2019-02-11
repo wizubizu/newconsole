@@ -194,6 +194,9 @@
   .__quote1 {
     font-size: 12px;
   }
+  .__forgsig {
+    font-size: 9px;
+  }
 
 
 }
@@ -280,6 +283,10 @@
     margin-bottom: 0;
   }
 
+  .__loginb {
+    margin-right: 0px;
+  }
+
   .__vot {
     font-size: 24px;
     margin-top: 0;
@@ -332,6 +339,19 @@
 
   .__votecam {
     font-size: 16px;
+  }
+
+  .__pricecarde {
+    margin-top: 10%;
+    padding: 0 0 25px;
+  }
+
+  .plr-0 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .__forgsig {
+    font-size: 9px;
   }
 
 }
