@@ -357,6 +357,11 @@ a:focus, a:hover {
 .__navma{
   font-size:14px;
   line-height: 1.56;
+  transition: all 0.4s ease-in;
+}
+
+.__navma:hover{
+  color: #ff5252 !important;
 }
 
 .__navmac{
@@ -878,6 +883,7 @@ a:focus, a:hover {
   box-shadow: 0 9px 36px 0 rgba(0, 0, 0, 0.16);
   background-color: #ffffff;
   padding: 20px 20px 80px;
+  margin-top: 10%;
 }
 
 .__hra{
@@ -895,6 +901,46 @@ a:focus, a:hover {
 
 .__forgsig a{
   color: #ff5252;
+}
+
+.__act{
+  color: #333333;
+  font-weight:600;
+  font-family: Poppins-Medium;
+}
+
+.__fcontrol{
+  /*height: 40px;*/
+  background-color: #e5e5e5;
+  /*border-radius: 2px;*/
+  font-size:12px;
+  border:0 !important;
+}
+
+
+
+/*placeholder colo*/
+.__fcontrol::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #d6d6d6 !important;
+    opacity: 1; /* Firefox */
+}
+
+.__fcontrol:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #d6d6d6 !important;
+}
+
+.__fcontrol::-ms-input-placeholder { /* Microsoft Edge */
+    color: #d6d6d6 !important;
+}
+
+
+.__back{
+  color: #e5e5e5 !important;
+  transition: all 0.4s ease-in;
+}
+
+.__back:hover{
+  color: #ff5252 !important;
 }
 
 
