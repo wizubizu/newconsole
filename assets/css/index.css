@@ -358,5 +358,9 @@
     margin-top: 0px;
   }
 
+  .__modal-dialog {
+    width: 100%;
+  }
+
 }
 

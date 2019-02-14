@@ -943,6 +943,26 @@ a:focus, a:hover {
   color: #ff5252 !important;
 }
 
+.__modal-dialog {
+  width: 460px;
+  margin: 30px auto;
+}
+
+.__modal-header {
+  border-bottom: none;
+}
+
+.__modal-header h4 {
+  color: #e5e5e5;
+  font-size: 15px;
+  font-family: Poppins-Medium;
+}
+
+.__modal-header hr {
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+
 
 /*footer*/
 .__foter{

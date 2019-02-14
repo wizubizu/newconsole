@@ -69,7 +69,7 @@
 					<p class="__vot">Voting: Conduct your <br> Credible and Secure Election... </p>
 					<p class="__votorg">Organization can now set-up and manage their own ballots convienently</p>
 					<p>
-						<a href="" class="btn __reqbtn">Request Demo</a>&nbsp;&nbsp;&nbsp;
+						<a data-toggle="modal" href='#modal-id' class="btn __reqbtn">Request Demo</a>&nbsp;&nbsp;&nbsp;
 						<a href="" class="btn __trybtn">Try us now!</a>
 					</p>
 					<div class="row">
@@ -306,6 +306,56 @@
 			</div>
 		</div>
 	</footer>
+
+	<!-- modal for get Started -->
+	<a class="btn btn-primary" data-toggle="modal" href='#modal-id'>Trigger modal</a>
+	<div class="modal fade" id="modal-id">
+		<div class="modal-dialog __modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header __modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title">Request a demo </h4>
+					<hr>
+				</div>
+				<div class="modal-body">
+					<form action="" method="POST" role="form">
+						<div class="form-group">
+							<label for="">Name</label>
+							<input type="text" class="form-control __fcontrol" id="" placeholder="Name">
+						</div>
+					
+						<div class="form-group">
+							<label for="">Organization</label>
+							<input type="text" class="form-control __fcontrol" id="" placeholder="Organization">
+						</div>
+
+						<div class="form-group">
+							<label for="">Email Address</label>
+							<input type="email" class="form-control __fcontrol" id="" placeholder="Email Address">
+						</div>
+
+						<div class="form-group">
+							<label for="">Any Question?</label>
+							<textarea name="" id="input" class="form-control __fcontrol" rows="8" placeholder="Question?"></textarea>
+						</div>
+					
+						<div class="row">
+							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-2"></div>
+							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-8">
+								<button type="submit" class="btn btn-block __logsignbtn">Submit</button>
+							</div>
+							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-2"></div>
+						</div>
+
+					</form>
+				</div>
+				<!-- <div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-primary">Save changes</button>
+				</div> -->
+			</div>
+		</div>
+	</div>
 
 
 
